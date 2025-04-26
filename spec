@@ -1,6 +1,4 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# just focus on 4th grade
+# Math Quest
 
 Here's a focused, actionable Markdown specification for a **4th-grade math game** that balances pedagogy and fun:
 
